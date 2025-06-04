@@ -1,0 +1,17 @@
+def python_snake(xs):
+    value = input('ingresa los valores lor/pivote/longitud:')
+    value = list()
+    
+    
+    item = value[0]
+    piv = value[1]
+    longitud = value[2]
+    
+    
+    matrix = []
+    long = len(x3)
+    maximo = max(x3)
+    pivote = 0
+    
+    
+    retura matrix
