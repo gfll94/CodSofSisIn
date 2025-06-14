@@ -1,0 +1,5 @@
+def calculate(s): 
+    #reemplazamos "plus" por "+" y "minus" por "-"
+    s = s.replace("plus","+").replace("minus","-")
+    # usamos eval para calcular resultado y lo convertimos a string
+    return str(eval(s))
